@@ -1,0 +1,2 @@
+# Demand-forecasting-inventory-management-using-IBM-Cognos-Analytics-
+This project involved the creation of an advanced Inventory Management Dashboard using IBM Cognos Analytics, designed to help businesses gain real-time insights into their inventory operations. The dashboard presents a visual summary of various key inventory metrics, aiding in effective decision-making and efficient inventory control.
